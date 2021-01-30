@@ -1,0 +1,10 @@
+.navbar-search-button {
+    border: 1px solid #ced4da !important;
+    border-left: none !important;
+    background-color: #fff !important;
+}
+
+.navbar-button-custom {
+    border: 1px solid #ced4da !important;
+    background-color: #fff !important;
+}
